@@ -1,3 +1,3 @@
-To run the frontend part
-npm install
-npm start
+<p>To run the frontend part</p>
+<p>npm install</p>
+<p>npm start</p>
